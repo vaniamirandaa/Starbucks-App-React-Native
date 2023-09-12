@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Coffee beans",
+      "itemId": 1
+    },
+    {
+      "id": 2,
+      "name": "Sugar",
+      "itemId": 1
+    },
+    {
+      "id": 3,
+      "name": "Chocolate",
+      "itemId": 2
+    },
+    {
+      "name": "Salt",
+      "id": 4,
+      "itemId": 2
+    },
+    {
+      "name": "Butter",
+      "id": 5,
+      "itemId": 3
+    }
+  ]

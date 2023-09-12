@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Almond Choco Bits",
+    "slug": "almond-choco-bits",
+    "categoryId": 3,
+    "price": "120000",
+    "description": "A crispy almond roasted to perfection, covered in rich milk chocolate with a special coating that never gets your fingers sticky",
+    "imgUrl": "https://globalassets.starbucks.com/assets/1ddc6371b2dc4bdc929fac84d962e01a.jpg",
+    "authorId": 1,
+    "id": 1,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  },
+  {
+    "name": "Featured Blonde Roast",
+    "slug": "featured-blonde-roast",
+    "categoryId": 1,
+    "price": "220000",
+    "description": "The delicious Starbucks® Blonde Roast coffee beans have a shorter roast time, allowing for an easy-drinking cup of more mellow flavors",
+    "imgUrl": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+    "authorId": 1,
+    "id": 2,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  },
+  {
+    "name": "Bagel",
+    "slug": "bagel",
+    "categoryId": 2,
+    "price": "120000",
+    "description": "Doughnut-shaped yeast-leavened roll that is characterized by a crisp, shiny crust and a dense interior.",
+    "imgUrl": "https://globalassets.starbucks.com/digitalassets/products/food/SBX20190821_EverythingBagel_US.jpg",
+    "authorId": 1,
+    "id": 3,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  },
+  {
+    "name": "Birthday Cake Pop",
+    "slug": "birthday-cake-pop",
+    "categoryId": 3,
+    "price": "10000",
+    "description": "Bite-sized vanilla cake mixed with vanilla buttercream, dipped in pink chocolaty icing and topped with white sprinkles.",
+    "imgUrl": "https://globalassets.starbucks.com/digitalassets/products/food/SBX20181129_BirthdayCakePop.jpg?",
+    "authorId": 1,
+    "id": 4,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  },
+  {
+    "name": "Featured Blonde Roast",
+    "slug": "featured-blonde-roast-2",
+    "categoryId": 1,
+    "price": "22000",
+    "description": "The delicious Starbucks® Blonde Roast coffee beans have a shorter roast time, allowing for an easy-drinking cup of more mellow flavors",
+    "imgUrl": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+    "authorId": 1,
+    "id": 5,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  },
+  {
+    "name": "Soft Chocolate Chip Cookie",
+    "slug": "soft-chocolate-chip-cookie",
+    "categoryId": 2,
+    "price": "18000",
+    "description": "Semisweet chocolate chips mixed in a thick, chewy cookie--soft on the inside and crunchy on the outside.",
+    "imgUrl": "https://www.starbucks.co.th/stb-media/2020/08/1.Soft-Choc-Chip-Cookie1080-1.png",
+    "authorId": 1,
+    "id": 6,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  },
+  {
+    "name": "Almond Choco Bits",
+    "slug": "almond-choco-bits-2",
+    "categoryId": 2,
+    "price": "120000",
+    "description": "v",
+    "imgUrl": "b",
+    "authorId": 1,
+    "id": 7,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  },
+  {
+    "name": "Java Mint Frappuccino",
+    "slug": "java-mint-frappuccino",
+    "categoryId": 4,
+    "price": "20000",
+    "description": "Coffee and flavors of sweet chocolate and refreshing mint blended with rich Frappuccino® .",
+    "imgUrl": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221206_ChocolateJavaMintFrappuccino.jpg",
+    "authorId": 1,
+    "id": 8,
+    "UserMongoId": "64e3833dd0d8cea5070514a3"
+  }
+]

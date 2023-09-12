@@ -1,0 +1,102 @@
+
+{ "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "081234",
+      "address": "Jakarta"
+    },
+    {
+      "id": 2,
+      "username": "admin2",
+      "email": "admin2@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "085678",
+      "address": "Bekasi"
+    }
+  ], 
+  "category": [
+    {
+      "id": 1,
+      "name": "Coffee"
+    },
+    {
+      "id": 2,
+      "name": "Bread"
+    },
+    {
+      "id": 3,
+      "name": "Sweets"
+    },
+    {
+      "name": "Cold Drinks",
+      "id": 4
+    },
+    {
+      "name": "Bakery",
+      "id": 5
+    }
+  ],
+  "items": [
+    {
+      "name": "Almond Choco Bits",
+      "categoryId": 3,
+      "price": "120000",
+      "description": "A crispy almond roasted to perfection, covered in rich milk chocolate with a special coating that never gets your fingers sticky",
+      "imgUrl": "https://globalassets.starbucks.com/assets/1ddc6371b2dc4bdc929fac84d962e01a.jpg",
+      "id": 1
+    },
+    {
+      "name": "Featured Blonde Roast",
+      "categoryId": 1,
+      "price": "220000",
+      "description": "The delicious Starbucks® Blonde Roast coffee beans have a shorter roast time, allowing for an easy-drinking cup of more mellow flavors",
+      "imgUrl": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+      "id": 2
+    },
+    {
+      "name": "Bagel",
+      "categoryId": 2,
+      "price": "120000",
+      "description": "Doughnut-shaped yeast-leavened roll that is characterized by a crisp, shiny crust and a dense interior.",
+      "imgUrl": "https://globalassets.starbucks.com/digitalassets/products/food/SBX20190821_EverythingBagel_US.jpg",
+      "id": 3
+    },
+    {
+      "name": "Birthday Cake Pop",
+      "categoryId": 3,
+      "price": "10000",
+      "description": "Bite-sized vanilla cake mixed with vanilla buttercream, dipped in pink chocolaty icing and topped with white sprinkles.",
+      "imgUrl": "https://globalassets.starbucks.com/digitalassets/products/food/SBX20181129_BirthdayCakePop.jpg?",
+      "id": 4
+    },
+    {
+      "name": "Featured Blonde Roast",
+      "categoryId": 1,
+      "price": "22000",
+      "description": "The delicious Starbucks® Blonde Roast coffee beans have a shorter roast time, allowing for an easy-drinking cup of more mellow flavors",
+      "imgUrl": "https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg",
+      "id": 5
+    },
+    {
+      "name": "Soft Chocolate Chip Cookie",
+      "categoryId": 2,
+      "price": "18000",
+      "description": "Semisweet chocolate chips mixed in a thick, chewy cookie--soft on the inside and crunchy on the outside.",
+      "imgUrl": "https://www.starbucks.co.th/stb-media/2020/08/1.Soft-Choc-Chip-Cookie1080-1.png",
+      "id": 6
+    },
+    {
+      "name": "Java Mint Frappuccino",
+      "categoryId": 4,
+      "price": "20000",
+      "description": "Coffee and flavors of sweet chocolate and refreshing mint blended with rich Frappuccino® .",
+      "imgUrl": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221206_ChocolateJavaMintFrappuccino.jpg",
+      "id": 7
+    }
+  ]
+}
